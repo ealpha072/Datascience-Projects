@@ -1,0 +1,7 @@
+## Data analysis; --- Nba data
+*   Check for empty rows and drop the rows
+*   Where column college is null, replace with State college
+*   Where salary is null, replace with average salary
+*   Find number of players earning both more and less than the average
+*   Who is the lowest paid in the lower division
+*   Group the data by teams
