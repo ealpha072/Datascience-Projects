@@ -1,4 +1,4 @@
-# Datascience projects
+# Data science projects
 
 This project is part of the learning process of data science. The datasets used in the sub projects were got from various sources. This project was done to increase familiarity with dataframes, pandas and numpy concepts.In some projets, matplot python library has also been used for data visualization, this was done to increase familiarity with data manipulation.
 
