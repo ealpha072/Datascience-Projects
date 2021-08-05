@@ -9,8 +9,8 @@ The process in  almost all the analysis is data reading, data cleaning, data ana
 
 ### Technologies used
 The main language that was used was python with below libraries:
-* numpy - used for arithmetic calculations and manipulations
-* Pandas - For dataframe manipulation 
-* Matplotlib  - For data visualization eg. graphs, pie charts
+* `numpy` - used for arithmetic calculations and manipulations
+* `Pandas` - For dataframe manipulation 
+* `Matplotlib` - For data visualization eg. graphs, pie charts
 
 Notebooks - The codes were written in notebook cells for ease of referencing and revision.
