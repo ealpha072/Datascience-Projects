@@ -7,7 +7,7 @@ Each directory has a diffrent project and data set with its own analysis require
 
 The process in  almost all the analysis is data reading, data cleaning, data analysis and data visualization.
 
-### Technologies used
+### Technologies used;
 The main language that was used was python with below libraries:
 * `numpy` - used for arithmetic calculations and manipulations
 * `Pandas` - For dataframe manipulation 
